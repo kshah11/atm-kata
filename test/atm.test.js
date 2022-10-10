@@ -22,4 +22,7 @@ describe('The atm function', () => {
   test('should return 1 if the input is 20', () => {
     expect(atm(20)).toBe(1);
   });
+  test('should return 1 if the input is 50', () => {
+    expect(atm(50)).toBe(1);
+  });
 });

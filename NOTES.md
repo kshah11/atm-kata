@@ -24,3 +24,10 @@ TODO:
 ✅ refactor
 ✅ write test for 20 dollars
 ✅ write functionality
+✅ write test for 50 dollars
+✅ write functionality
+
+- write test for 100 dollars
+- write functionality
+- write test for 200 dollars
+- write functionality

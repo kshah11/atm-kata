@@ -13,4 +13,7 @@ describe('The atm function', () => {
   test('should return 2 if the input is 30', () => {
     expect(atm(30)).toBe(2);
   });
+  test('should return -1 if the input is 25', () => {
+    expect(atm(25)).toBe(-1);
+  });
 });

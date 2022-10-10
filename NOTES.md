@@ -8,6 +8,8 @@ TODO:
 
 # Pomodoro 1
 
+✅ Update file/function names
+
 - write test for 1 dollar
 - write functionality
 - write test for 2 dollars

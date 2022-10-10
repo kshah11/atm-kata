@@ -19,6 +19,7 @@ TODO:
 ✅ write functionality
 ✅ write test for 25 dollars
 ✅ write functionality
+✅ write test for 28 dollars
+✅ write functionality
 
-- write test for 28 dollars
-- write functionality
+- refactor

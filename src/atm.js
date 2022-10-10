@@ -1,5 +1,5 @@
 const atm = (dollars) => {
-  if (dollars === 1) {
+  if (dollars < 10) {
     return -1;
   }
   return 1;

@@ -28,6 +28,5 @@ TODO:
 ✅ write functionality
 ✅ write test for 100 dollars
 ✅ write functionality
-
-- write test for 200 dollars
-- write functionality
+✅ write test for 200 dollars
+✅ write functionality
